@@ -19,5 +19,5 @@
 #### FAQ #8: ΠΩΣ ΜΠΟΡΩ ΝΑ ΕΠΙΚΟΙΝΩΝΗΣΩ ΑΜΕΣΑ ΜΑΖΙ ΣΟΥ;
 Αν δεν αφορά το θέμα κάποιο από τα παραπάνω 7 σημεία, μπορείς να χρησιμοποιήσεις την ηλεκτρονική διεύθυνση psounis@gmail.com
 
-## Copyright & License
-[MIT](https://github.com/paraskevasleivadaros/notes/blob/master/LICENSE)
+## 🛠️ Tech Stack
+[![GitHub Actions](https://skills.thijs.gg/icons?i=githubactions)](https://github.com/features/actions)
